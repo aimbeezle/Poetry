@@ -1,4 +1,4 @@
-welcome to my repository, aptly named after somebody i hold most dear
+welcome to my repository, aptly named after somebody i held most dear
 
 it is a library, or collection of poetry i've written over many years.
 this is technically a comprehensive deep dive into my psyche.
